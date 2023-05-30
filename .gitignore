@@ -1,0 +1,7 @@
+
+module_1/.terraform*
+module_1/terraform.tfstate
+module_1/terraform.tfstate.backup
+
+# file with authentication secrets
+module_1/azure-auth.tf
